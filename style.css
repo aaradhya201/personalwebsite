@@ -1,0 +1,26 @@
+body{
+    background-color: burlywood;
+}
+#one{
+    border-radius: 100%;
+}
+#home{
+    background-color: blue;
+}
+#videos{
+    background-color: rgb(0, 255, 42);
+}
+ul{
+    list-style-type: none;
+}
+li{
+    float:right;
+    margin: 10px;
+    text-decoration: underline;
+    font-family:  'Imperial Script', cursive;
+    font-size: 30px;
+    color: white;
+}
+#three{
+    font-family: 'Yuji Hentaigana Akari', cursive;;
+}
